@@ -1,0 +1,26 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
+}
+
+.my-container {
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    height: 50vh;
+    width: 100%;
+}
+
+
+a {
+    font-size: 4vh;
+}
+
+p {
+    color: blue;
+    font-size: 3vh;
+}
